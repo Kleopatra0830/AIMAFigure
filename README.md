@@ -1,0 +1,2 @@
+# AIMAFigure
+Picture for AIMA
